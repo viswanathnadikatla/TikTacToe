@@ -1,0 +1,35 @@
+.center {
+    margin: auto;
+    width: 20%;
+}
+
+.btn-primary {
+    background-color: #4CAF50;
+    border: 2px;
+    color: white;
+    padding: 14px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    margin-top: 12px;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+    color: #fff;
+    background-color: #1f2122;
+    border-color: #285e8e;
+}
+
+div.background {
+    background: url(https://images.cdn3.stockunlimited.net/preview1300/tic-tac-toe-pattern-background_1242337.jpg) repeat;
+    border: 2px solid black;
+}
+
+div.transbox {
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.8;
+    height: 380px;
+}
